@@ -149,8 +149,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or support, please open an issue or contact [yourname](mailto:youremail@example.com).
+For questions or support, please open an issue or contact [KoustavD1423](mailto:ghostsneverdie123@gmail.com).
 
----
 
-Replace placeholders (like `yourusername`, `GuardianGaze`, `yourname`, and `youremail@example.com`) with your actual details. This detailed template should provide a clear, comprehensive guide for anyone interested in using or contributing to GuardianGaze.
