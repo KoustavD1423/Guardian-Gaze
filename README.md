@@ -1,13 +1,10 @@
-Here's the updated README file reflecting the use of YOLO-NAS for human detection and YOLOv8 for fall detection, along with the usage of separate files for each task:
-
----
 
 # GuardianGaze
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/GuardianGaze/ci.yml?branch=main)](https://github.com/yourusername/GuardianGaze/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/KoustavD1423/Guardian-Gaze/ci.yml?branch=main)](https://github.com/KoustavD1423/Guardian-Gaze/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/GuardianGaze.svg)](https://github.com/yourusername/GuardianGaze/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/KoustavD1423/Guardian-Gaze.svg)](https://github.com/KoustavD1423/Guardian-Gaze/graphs/contributors)
 
 ## Overview
 
@@ -119,7 +116,7 @@ The system analyzes the posture of the detected person to identify abnormal post
 In the case of video inputs, the system also examines the motion patterns of the detected person. Sudden and rapid changes in position, particularly downward movements followed by inactivity, are strong indicators of a fall. This temporal analysis helps to distinguish falls from other activities such as sitting down or bending over.
 
 ### Human_object_detector image inference
-![Training Accuracy and Loss](output.jpg)
+![Training Accuracy and Loss](output.png)
 
 ### Fall_detection inference
 ![Training Accuracy and Loss](fall_inference.jpg)
